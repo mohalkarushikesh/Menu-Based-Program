@@ -1,0 +1,24 @@
+A tangible user interface (TUI) is a user interface in which a person interacts with digital information through the physical environment.
+
+Linux is one of the most popular operating systems and is a common choice for developers. However, it is difficult to remember the vast range of commands that Linux supports, and hence a Python program that can run these commands easily is demonstrated below. 
+
+In this article, we will deal with a Python program that can be used to run complex Linux commands. This program is a drop-down menu that gives the user a choice list and the user can proceed with his/her required option. Python has an OS module that can be used to run or execute Linux commands. The os module helps interact with the Operating System.
+
+Here are the functionalities implemented in this program:
+
+Displaying the current date.
+Displaying the calendar.
+Configuring the web.
+Configuring docker.
+Adding a user.
+Deleting a user.
+Creating a file.
+Creating a folder.
+ 
+
+
+The application must be run on a Linux terminal. 
+
+
+//project with large scale
+https://dev.to/kshitizsaini113/menu-driven-program-for-a-linux-control-3oh3
