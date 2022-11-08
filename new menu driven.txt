@@ -15,10 +15,7 @@ Deleting a user.
 Creating a file.
 Creating a folder.
  
-
-
 The application must be run on a Linux terminal. 
-
 
 //project with large scale
 https://dev.to/kshitizsaini113/menu-driven-program-for-a-linux-control-3oh3
