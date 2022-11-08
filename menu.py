@@ -5,7 +5,6 @@ print("\t\t\t\t\t\t\t\tHey welcome to my TUI thats makes life simple")
 os.system("tput setaf 2")
 print("\t\t\t\t\t\t\t\t.............................................")
  
-
 passwd = getpass.getpass("Enter your password : ")
 apass = "1234"
 if passwd != apass:
