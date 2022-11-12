@@ -11,6 +11,7 @@ Displaying the calendar.
 Configuring the web.
 Configuring docker.
 Adding a user.
+launching a virtual machine.
 Deleting a user.
 Creating a file.
 Creating a folder.
